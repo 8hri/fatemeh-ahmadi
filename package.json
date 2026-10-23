@@ -1,0 +1,13 @@
+{
+  "name": "fatemeh-ahmadi",
+  "version": "1.0.0",
+  "description": "Hot‑seat 4‑player Persian card game – Fatemeh Ahmadi",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js",
+    "test:e2e": "node e2e.mjs"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.64.1"
+  }
+}

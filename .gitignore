@@ -1,0 +1,5 @@
+node_modules/
+e2e-shots/
+*.log
+.DS_Store
+Thumbs.db

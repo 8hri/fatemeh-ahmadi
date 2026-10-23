@@ -1,0 +1,19 @@
+{
+  "name": "فاطمه احمدی",
+  "short_name": "فاطمه احمدی",
+  "description": "بازی کارتی حضوری چهارنفره با دورهم‌بازی روی یک گوشی",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#0b1220",
+  "background_color": "#0b1220",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
